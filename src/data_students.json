@@ -1,0 +1,122 @@
+[
+  {
+    "num_control": "837T0159",
+    "name": "José Luis Hernández López",
+    "career": "Ingeniería Civil",
+    "address": "Av. Juárez No. 52, Col. Centro, Veracruz",
+    "email": "josehl@itsm.edu.mx",
+    "phone": "2293156234"
+  },
+  {
+    "num_control": "528T0137",
+    "name": "Ana María Vargas Pérez",
+    "career": "Ingeniería Civil",
+    "address": "Calle Hidalgo No. 10, Col. Centro, Puebla",
+    "email": "amvperez@itsm.edu.mx",
+    "phone": "2211748239"
+  },
+  {
+    "num_control": "146T0245",
+    "name": "Luis Fernando López García",
+    "career": "Ingeniería Civil",
+    "address": "Morelos No. 80, Col. San Rafael, Xalapa",
+    "email": "lflgarcia@itsm.edu.mx",
+    "phone": "2283621940"
+  },
+  {
+    "num_control": "392T0372",
+    "name": "Patricia Sánchez Ramírez",
+    "career": "Ingeniería Civil",
+    "address": "Calle 5 de Mayo No. 21, Col. Los Pinos, Jalapa",
+    "email": "psramirez@itsm.edu.mx",
+    "phone": "2284712859"
+  },
+  {
+    "num_control": "529T0418",
+    "name": "Miguel Ángel Gómez Torres",
+    "career": "Ingeniería Electromecánica",
+    "address": "Calle Bolívar No. 18, Col. Del Valle, Misantla",
+    "email": "magtorres@itsm.edu.mx",
+    "phone": "2351763245"
+  },
+  {
+    "num_control": "345T0174",
+    "name": "Karla Sofía Morales Esparza",
+    "career": "Ingeniería Bioquímica",
+    "address": "Av. Revolución No. 64, Col. El Carmen, Córdoba",
+    "email": "ksmorales@itsm.edu.mx",
+    "phone": "2714563789"
+  },
+  {
+    "num_control": "612T0437",
+    "name": "Ricardo Flores Navarro",
+    "career": "Ingeniería en Sistemas Computacionales",
+    "address": "Calle Independencia No. 50, Col. Centro, Xalapa",
+    "email": "rfnavarro@itsm.edu.mx",
+    "phone": "2283014973"
+  },
+  {
+    "num_control": "203T0529",
+    "name": "Fernanda Ruiz Domínguez",
+    "career": "Ingeniería Industrial",
+    "address": "Calle San Juan No. 12, Col. Morelos, Veracruz",
+    "email": "fruizd@itsm.edu.mx",
+    "phone": "2294126578"
+  },
+  {
+    "num_control": "775T0395",
+    "name": "Gabriela Pérez Sánchez",
+    "career": "Ingeniería Bioquímica",
+    "address": "Calle Ocampo No. 35, Col. La Merced, Tuxpan",
+    "email": "gpsanchez@itsm.edu.mx",
+    "phone": "7835612398"
+  },
+  {
+    "num_control": "514T0846",
+    "name": "Juan Carlos Villanueva Ortega",
+    "career": "Ingeniería en TICs",
+    "address": "Av. Hidalgo No. 45, Col. Chapultepec, Misantla",
+    "email": "jcvillanueva@itsm.edu.mx",
+    "phone": "2353671285"
+  },
+  {
+    "num_control": "928T0216",
+    "name": "Alejandra Torres Castillo",
+    "career": "Ingeniería en TICs",
+    "address": "Calle Morelos No. 23, Col. Loma Bonita, Poza Rica",
+    "email": "atorres@itsm.edu.mx",
+    "phone": "7825692734"
+  },
+  {
+    "num_control": "341T0327",
+    "name": "Fernando Soto Ramírez",
+    "career": "Ingeniería en Sistemas Computacionales",
+    "address": "Calle Allende No. 72, Col. Zapata, Coatzacoalcos",
+    "email": "fsoto@itsm.edu.mx",
+    "phone": "9213759231"
+  },
+  {
+    "num_control": "564T0783",
+    "name": "Daniela Gómez Arriaga",
+    "career": "Ingeniería Industrial",
+    "address": "Av. 16 de Septiembre No. 5, Col. Centro, Veracruz",
+    "email": "dgomezar@itsm.edu.mx",
+    "phone": "2294793127"
+  },
+  {
+    "num_control": "687T0463",
+    "name": "Iván Ruiz Mejía",
+    "career": "Ingeniería Mecánica",
+    "address": "Calle Hidalgo No. 28, Col. Los Arcos, Jalapa",
+    "email": "irm@itsm.edu.mx",
+    "phone": "2283957162"
+  },
+  {
+    "num_control": "298T0129",
+    "name": "Marcela Morales Martínez",
+    "career": "Ingeniería en Sistemas Computacionales",
+    "address": "Calle Mina No. 37, Col. La Palma, Veracruz",
+    "email": "mmorales@itsm.edu.mx",
+    "phone": "2294583172"
+  }
+]

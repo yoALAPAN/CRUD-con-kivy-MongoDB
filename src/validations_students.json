@@ -1,0 +1,45 @@
+{
+    "$jsonSchema": {
+      "bsonType": "object",
+      "required": ["num_control", "phone", "email", "career", "name", "address"],
+      "properties": {
+        "num_control": {
+          "bsonType": "string",
+          "description": "Debe ser un string de exactamente 8 caracteres",
+          "minLength": 8,
+          "maxLength": 8
+        },
+        "phone": {
+          "bsonType": "string",
+          "description": "Debe ser un string numérico de exactamente 10 caracteres",
+          "pattern": "^[0-9]{10}$"
+        },
+        "email": {
+          "bsonType": "string",
+          "description": "Debe ser un string con formato de correo electrónico",
+          "pattern": "^.+@itsm\\.edu\\.mx$"
+        },
+        "career": {
+          "bsonType": "string",
+          "enum": [
+            "Ingeniería Bioquímica",
+            "Ingeniería Civil",
+            "Ingeniería Electromecánica",
+            "Ingeniería en Sistemas Computacionales",
+            "Ingeniería en TICs",
+            "Ingeniería Industrial"
+          ],
+          "description": "Debe ser una carrera válida del listado"
+        },
+        "name": {
+          "bsonType": "string",
+          "description": "El nombre debe ser un string"
+        },
+        "address": {
+          "bsonType": "string",
+          "description": "La dirección debe ser un string"
+        }
+      }
+    }
+  }
+  
